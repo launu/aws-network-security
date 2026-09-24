@@ -1,4 +1,4 @@
-# AWS Network Security Lab — Bastion Host Architecture
+# AWS Network Security — Bastion Host Architecture
 
 Terraform configuration for a segmented AWS network that uses a bastion host (jump box) to control access to a private instance, plus a simpler single-instance exercise.
 
